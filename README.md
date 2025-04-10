@@ -79,7 +79,7 @@
 </div>
 <p align="center">
  <a href="http://linkedin.com/in/jo%C3%A3o-rodrigues-0952b3218" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.habitat44.org/wp-content/uploads/2020/06/53-533322_linked-in-logo-linkedin-logo-png-images-free.jpg" /> &nbsp; &nbsp;
  </a>
  <a href="https://www.instagram.com/joaorn_/" target="blank">
   <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
