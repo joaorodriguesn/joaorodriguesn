@@ -1,6 +1,6 @@
 ## João Rodrigues 
 
-## Ciêntistas de dados ju
+## Ciêntista de dados junior
 
 ### Sobre mim:
 👩‍🎓 Bacharel em Engenharia Mecânica pela Universidade de Boa Viagem Wyden e Técnico em Mecânica Industrial pela Escola Técnica Particular.
