@@ -26,16 +26,16 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span>GeoPandas</span><br><br>
-        <img height="64px" src="https://geopandas.org/en/stable/_images/geopandas_logo.png">
+        <span>Flask</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg">
       </td>
       <td width="25%" align="center">
         <span>Pandas</span><br><br>
         <img height="64px" src="https://pandas.pydata.org/static/img/pandas.svg">
       </td>
       <td width="25%" align="center">
-        <span>Google Earth Engine</span><br><br>
-        <img height="64px" src="https://developers.google.com/static/earth-engine/images/landing_ee_logo_480.png">
+        <span>Sklearn</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -44,12 +44,12 @@
         <img height="64px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
       </td>
       <td width="25%" align="center">
-        <span>QGIS</span><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/801px-QGIS_logo%2C_2017.svg.png">
+        <span>Streamlit</span><br><br>
+        <img height="64px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png">
       </td>
       <td width="25%" align="center">
-        <span>Geemap</span><br><br>
-        <img height="64px" src="https://i.imgur.com/9OOSpDm.png">
+        <span>Numpy</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg">
       </td>
       <td width="25%" align="center">
         <span>Matplotlib</span><br><br>
