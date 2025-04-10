@@ -6,10 +6,9 @@
 👩‍🎓 Bacharel em Engenharia Mecânica pela Universidade de Boa Viagem Wyden e Técnico em Mecânica Industrial pela Escola Técnica Particular.
 
 ⭐️ Experiências:
-* 💻 Desenvolvimento de mapas interativos usando Python e a biblioteca Geemap;
-* ⚙️ Extração e manipulação de dados geoespaciais por meio do Google Earth Engine;
-* 🗺️ Manipulação de dados e criação de mapas utilizando o software QGIS;
-* 💡 Análise e tratamento de dados com as bibliotecas Pandas e GeoPandas;
+* 💻 Desenvolvimento de modelos de Machine Learning utilizando Python;
+* ⚙️ Tratamento e análise de dados com Python;
+* 💡 Análise e tratamento de dados com as bibliotecas Pandas;
 * 📊 Visualização de dados utilizando as bibliotecas Seaborn e Matplotlib.
 
 🧠 Hard Skills:
