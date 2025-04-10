@@ -16,7 +16,10 @@
 * Pandas;
 * Matplotlib;
 * Seaborn;
-* Numpy.
+* Numpy;
+* Flask;
+* Sklearn;
+* Streamlit.
 
 <table align="center">
   <tbody>
